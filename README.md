@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jinoprinx  a python/ web developer
+- 👋 Hi, I’m @Jinoprinx  a python/ Nextjs/ Nodejs full stack web developer
 - 👀 I’m interested in machine learning, TinyML,  python projects, robotics and web development
-- 🌱 I’m currently learning ReactJS and React Native for better application development
+- 🌱 I’m continuously learning how to build better applications
 - 💞️ I’m looking to collaborate on TinyML, machine learning, robotics and python projects
 - 📫 How to reach me  @ aiprinxly@gmail.com or twitter @AIPrinx
 
